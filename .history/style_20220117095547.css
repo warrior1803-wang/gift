@@ -47,7 +47,6 @@ body {
   height: 366.66667px;
   top: 50%;
   left: 50%;
-  
   margin-top: -183.33333px;
   margin-left: -275px;
   transform-style: preserve-3d;
@@ -118,7 +117,7 @@ body {
 }
 
 .envelope .back .letter p {
-  font-size: 1.1em;
+  font-size: 30px;
 
   line-height: 35px;
   letter-spacing: 2px;
@@ -238,7 +237,7 @@ body {
   position: absolute;
   top: 2%;
   left: 14%;
-  width: 78%;
+  width: 86%;
   height: 94%;
   background-color: #fff;
   border-radius: 5px;

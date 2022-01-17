@@ -12,12 +12,8 @@
    background-color: #1f1f1f;
   }
 } */
-@media screen and (max-width: 480px) {
-  .envelope .back .letter {
-    left: 10%;
-    width: 73%;
-    height: 93%;
-  }
+@media screen and (max-width: 480px){
+  .en
 }
 body,
 html {
@@ -47,7 +43,6 @@ body {
   height: 366.66667px;
   top: 50%;
   left: 50%;
-  
   margin-top: -183.33333px;
   margin-left: -275px;
   transform-style: preserve-3d;
@@ -118,7 +113,7 @@ body {
 }
 
 .envelope .back .letter p {
-  font-size: 1.1em;
+  font-size: 30px;
 
   line-height: 35px;
   letter-spacing: 2px;
@@ -236,10 +231,10 @@ body {
 .envelope .back .letter {
   z-index: 1;
   position: absolute;
-  top: 2%;
-  left: 14%;
-  width: 78%;
-  height: 94%;
+  top: 5px;
+  left: 10px;
+  width: 530px;
+  height: 346.66667px;
   background-color: #fff;
   border-radius: 5px;
   padding: 0 30px;

@@ -118,7 +118,7 @@ body {
 }
 
 .envelope .back .letter p {
-  font-size: 1.1em;
+  font-size: 1.2em;
 
   line-height: 35px;
   letter-spacing: 2px;
@@ -238,7 +238,7 @@ body {
   position: absolute;
   top: 2%;
   left: 14%;
-  width: 78%;
+  width: 80%;
   height: 94%;
   background-color: #fff;
   border-radius: 5px;
